@@ -8,4 +8,5 @@ public class Dogecoin {
 
 
     //we all be rich
+    /////
 }
